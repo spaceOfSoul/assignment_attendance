@@ -1,0 +1,5 @@
+*.html
+chromedriver-win64
+*.xlsx
+*.zip
+__pycache__
